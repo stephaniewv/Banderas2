@@ -1,0 +1,13 @@
+div{
+    height: 120px;
+    width: 200px;
+}
+
+.yellow{
+    background-color: #FEC106;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
